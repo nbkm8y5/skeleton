@@ -1,0 +1,36 @@
+h2, p{
+	margin-top: 25px;
+}
+
+#footer{
+font-family: 'Lato', sans-serif;
+}
+
+#footer a{
+	color: #EC3C32;
+}
+
+#footer ul{
+list-style-type: none;
+padding: 0;
+margin-top: 25px;
+}
+
+#copyright{
+	text-align: center;
+}
+
+#footerSocialLinks li{
+	display: inline;
+	list-style-type: none;
+	padding-right: 25px;
+}
+
+#footerSocialLinks img{
+	max-height: 25px;
+}
+
+#footerSocialLinksRow{
+	padding-top: 10px;
+	padding-left: 25px;
+}

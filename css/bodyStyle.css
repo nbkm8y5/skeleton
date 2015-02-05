@@ -1,0 +1,51 @@
+.productSection{
+	min-height: 500px;
+}
+
+.productSection a{
+	color: #EC3C32;
+}
+
+#aboutUs{
+	padding: 50px 50px 50px 50px;
+}
+
+#aboutUs h1{
+	margin-top: 0px;
+}
+
+#aboutThumbs{
+	padding-top: 25px;
+}
+
+#aboutThumbs li{
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#aboutThumbs ul{
+	padding: 0px;
+	text-align: center;
+}
+
+.caption h3{
+	text-align: center;
+}
+
+.centeredH1 h1{
+	text-align: center;
+}
+
+.paragraphIndent{
+	text-indent: 50px;
+}
+
+#captionImage img{
+	max-height: 25px;
+	display: inline-block;
+}
+
+#captionImage p{
+	text-align: center;	
+}

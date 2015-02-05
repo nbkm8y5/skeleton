@@ -1,0 +1,44 @@
+#header{
+font-family: 'Lato', sans-serif;
+padding-top: 25px;
+padding-left: 25px;
+padding-right: 25px;
+}
+
+#headerBottomRow{
+	padding-top: 25px;
+	text-align: center;
+}
+
+#headerBottomRow li{
+	display: inline;
+}
+
+#headerBottomRow a{
+	color: #EC3C32;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#socialLinks li{
+	display: inline;
+	list-style-type: none;
+	padding-right: 25px;
+	float: right;
+}
+
+#addressBar li{
+	display: inline;
+	list-style-type: none;
+	padding-left: 25px;
+	padding-right: 25px;
+	float: right;
+}
+
+#socialLinks img{
+	max-height: 25px;
+}
+
+#socialLinksRow{
+	padding-top: 10px;
+}
