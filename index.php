@@ -1,5 +1,4 @@
-<?php
-?>
+<?php ?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie9 ie8" lang="en"> <![endif]-->
 <!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
@@ -49,11 +48,11 @@
                     </div>
                     <div id="socialLinksRow" class="row">
                         <ul id="socialLinks">
-                            <li><a href="https://twitter.com/305Rol" class="twitter" title="Twitter" target="_blank"><img src="images/twitter.png"></a></li>
-                            <li><a href="https://www.facebook.com/roly.moreno.5" class="facebook" title="Facebook" target="_blank"><img src="images/fb.png"></a></li>
-                            <li><a href="https://plus.google.com/u/1/112623303068599564529/posts/p/pub" class="googleplus" title="Googleplus" target="_blank"><img src="images/plus.png"></a></li>
-                            <li><a href="http://www.instagram.com/negladiator" class="instagram" title="Instagram" target="_blank"><img src="images/instagram.png"></a></li>
-                            <li><a href="http://www.linkedin.com/pub/rolando-moreno/48/6b8/771/" class="linkedin" title="Linkedin" target="_blank"><img src="images/linked.png"></a></li>
+                            <li><a href="#" class="twitter" title="Twitter" target="_blank"><img src="images/twitter.png"></a></li>
+                            <li><a href="#" class="facebook" title="Facebook" target="_blank"><img src="images/fb.png"></a></li>
+                            <li><a href="#" class="googleplus" title="Googleplus" target="_blank"><img src="images/plus.png"></a></li>
+                            <li><a href="#" class="instagram" title="Instagram" target="_blank"><img src="images/instagram.png"></a></li>
+                            <li><a href="#" class="linkedin" title="Linkedin" target="_blank"><img src="images/linked.png"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -108,18 +107,18 @@
                     <h2>Subscribe to Rolando Moreno Developments</h2>
                     <div id="footerSocialLinksRow" class="row">
                         <ul id="footerSocialLinks">
-                            <li><a href="https://twitter.com/305Rol" class="twitter" title="Twitter" target="_blank"><img src="images/twitter.png"></a></li>
-                            <li><a href="https://www.facebook.com/roly.moreno.5" class="facebook" title="Facebook" target="_blank"><img src="images/fb.png"></a></li>
-                            <li><a href="https://plus.google.com/u/1/112623303068599564529/posts/p/pub" class="googleplus" title="Googleplus" target="_blank"><img src="images/plus.png"></a></li>
-                            <li><a href="http://www.instagram.com/negladiator" class="instagram" title="Instagram" target="_blank"><img src="images/instagram.png"></a></li>
-                            <li><a href="http://www.linkedin.com/pub/rolando-moreno/48/6b8/771/" class="linkedin" title="Linkedin" target="_blank"><img src="images/linked.png"></a></li>
+                            <li><a href="#" class="twitter" title="Twitter" target="_blank"><img src="images/twitter.png"></a></li>
+                            <li><a href="#" class="facebook" title="Facebook" target="_blank"><img src="images/fb.png"></a></li>
+                            <li><a href="#" class="googleplus" title="Googleplus" target="_blank"><img src="images/plus.png"></a></li>
+                            <li><a href="#" class="instagram" title="Instagram" target="_blank"><img src="images/instagram.png"></a></li>
+                            <li><a href="#" class="linkedin" title="Linkedin" target="_blank"><img src="images/linked.png"></a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div id="bottomFooterRow" class="row">
                 <div id="copyright" class="col-md-12 col-xs-12 col-sm-12">
-                    <p>Copyright @ 2014 Rolando Moreno Software Developments Inc</p>
+                    <p>&copy <?php echo date("Y") ?> Rolando Moreno Software Developments Inc</p>
                 </div>
             </div>
         </section>
